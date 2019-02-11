@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Java Template</string>
+
+    <!-- Layout -->
+    <string name="edit_text_hint">Enter your text</string>
+    <string name="button_text">Send plain text</string>
+    <string name="button_encrypted_text">Send encrypted text</string>
+    <string name="text_view_content">Content encrypted:\n%s</string>
+
+    <!-- Toasts -->
+    <string name="toast_et_empty">Enter text before sending it</string>
+    <string name="toast_sent">Text is sent</string>
+    <string name="toast_fail">Something went wrong</string>
+    <string name="toast_success">Text length is %d</string>
+    <string name="toast_fail_encrypted">Empty response</string>
+    <string name="toast_success_encrypted">Text decrypted received = %s</string>
+
+</resources>
